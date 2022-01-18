@@ -1,6 +1,6 @@
 # Some quick scripts I threw together for personal use
 
-Many of these are either very insecure or flaky; others just violate accepted best practices. You probably shouldn't use them. Minimaly tested on Ubuntu 18.04, but should work on any recent Ubuntu distribution.
+Many of these are either very insecure or flaky; others just violate accepted best practices. You probably shouldn't use them. Minimally tested on Ubuntu 18.04, but should work on any recent Ubuntu distribution.
 
 ### Structure:
 ```
