@@ -5,7 +5,7 @@ Many of these are either very insecure or flaky; others just violate accepted be
 ### Structure:
 ```
 .
-├── src                     # Basic system setup and checks (run these before running scripts from lxd/ or scripts/)
+├── setup                   # Basic system setup and checks (run these before running scripts from lxd/ or scripts/)
 ├── lxd                     # Top level scripts (run these to setup LXD containers, calls scripts from scripts/)
 ├── scripts                 # Service level scripts (run these to setup a service on a new install)
 ├── test                    # Test scripts 
